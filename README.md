@@ -1,6 +1,6 @@
 #preview
 
-zenitsu-ui.netlify.app
+[zenitsu-ui.netlify.app](https://zenitsu-ui.netlify.app/)
 
 
 # React + Vite
