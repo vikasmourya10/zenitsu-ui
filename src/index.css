@@ -1,0 +1,55 @@
+/* ===== CSS Reset ===== */
+@import "tailwindcss";
+
+body {
+  height: 100%;
+  width: 100%;
+  background-image: url('public/bg.jpg');
+  background-size: cover;
+  color: black;
+  background-repeat: no-repeat;
+  position: fixed;
+  overflow: hidden;
+}
+.top div div{
+  
+  background-size: cover;
+  overflow: hidden;
+  
+}
+.top div h1{
+  font-weight: bold;
+  letter-spacing: 10px;
+}
+
+.top div img{
+ object-fit: cover;
+ scale: 1;
+ object-position: top;
+ margin-bottom: 100%;
+}
+.top div{
+  
+}
+.top div div div{
+  background-color: white;
+}
+#photo1{
+  background-image: url('public/thunder.png');
+}
+#quote1{
+  background-image: url('public/2.png');
+  opacity: 70%;
+  border: 0.5px solid gray;
+}
+#quote2{
+  background-image: url('public/1.png');
+  opacity: 70%;
+  border: 0.5px solid gray;
+}
+#grandfather{
+  background-image: url('public/grandfather.png');
+  box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+  opacity: 70%;
+  border: 0.5px solid gray;
+}
